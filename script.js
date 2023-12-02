@@ -1,10 +1,10 @@
 // Dog images for the gallery
 const dogImages = [
-    'https://placekitten.com/200/150', // Placeholder image 1
-    'https://placepuppy.it/200/150',   // Placeholder image 2
-    'https://www.placecage.com/200/150',  // Placeholder image 3
-    'https://www.fillmurray.com/200/150', // Placeholder image 4
-    'https://placebear.com/200/150'  // Placeholder image 5
+    'https://placedog.net/500/280', // Placeholder image 1
+    'https://placedog.net/500/281',   // Placeholder image 2
+    'https://placedog.net/500/282',  // Placeholder image 3
+    'https://placedog.net/500/283', // Placeholder image 4
+    'https://placedog.net/500/284'  // Placeholder image 5
 ];
 
 // Function to shuffle the array
